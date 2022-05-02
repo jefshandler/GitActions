@@ -13,6 +13,6 @@ jobs:
       - name: Install packeges
         run: npm i
       - name: Run ESlint
-        run: npm run lint  actions/checkout
+        run: npm run lint
   
          
